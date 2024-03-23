@@ -18,7 +18,7 @@ Description of your project goes here.
 ## Tech Stack
 
 - Node.js
-- FFmpeg
+- Fmfpeg
 - RTMP
 - Express.js
 - Socket.io
@@ -28,5 +28,10 @@ Description of your project goes here.
 To get a local copy up and running follow these simple steps:
 
 1. Clone the repository.
-2. Install dependencies using npm:
+2. Install dependencies using npm
+3. Run docker compose run
+4. and for env variable:-1 go youtube open actual streaming studio go live and copy rtmp url and copy stream key and paste into index.js (where you find rtmp )
+5. and that set good to go
+
+
 
